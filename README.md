@@ -1,2 +1,1 @@
-# react-custom-hook-git-user-search
-Created with CodeSandbox
+# Custom-Hook-github-user-Api
